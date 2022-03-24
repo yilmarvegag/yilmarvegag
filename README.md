@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**yilmarvegag/yilmarvegag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  I’m currently working how developer movil(Flutter), web(I'm not full stack) and backend.
 
-Here are some ideas to get you started:
+- 🌱  I’am currently learning more about mobile development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯  I’m looking to collaborate on open-source projects.
+
+- 💫  I am open to work on new ideas.
+
+- 📫  How to reach me: https://linktr.ee/yilmarvegag
+
+- ⚡  Fun fact: I am also a junior photographer, Check [here](https://500px.com/yilmarvegag) 
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+![Ashish's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yilmarvegag&theme=vue) 
+
+</details>
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yilmarvegag/count.svg" />
+</p>
