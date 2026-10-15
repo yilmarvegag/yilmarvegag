@@ -8,7 +8,7 @@
 
 - 💫  I am open to work on new ideas.
 
-- 📫  How to reach me: https://linktr.ee/yilmarvegag
+- 📫  How to reach me: https://yilmarvegag.dev
 
 - ⚡  Fun fact: I am also a junior photographer, Check [here](https://500px.com/yilmarvegag) 
 
